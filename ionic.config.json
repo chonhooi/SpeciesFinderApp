@@ -1,0 +1,11 @@
+{
+  "name": "ScorpionClassifierApp",
+  "app_id": "fb6eb41c",
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/api/ScorpionFinder",
+      "proxyUrl": "https://functionapp20170609052331.azurewebsites.net/api/ScorpionFinder"
+    }
+  ]
+}
